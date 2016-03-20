@@ -1,0 +1,51 @@
+https://keybase.io/peteburgers
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://peteburgers.tk
+  * I am peteburgers (https://keybase.io/peteburgers) on keybase.
+  * I have a public key ASDaHHD0Q7pewfQoWFIHoxofWs7uQgcp_wSyASCRn4mMWQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120da1c70f443ba5ec1f428585207a31a1f5aceee420729ff04b20120919f898c590a",
+            "host": "keybase.io",
+            "kid": "0120da1c70f443ba5ec1f428585207a31a1f5aceee420729ff04b20120919f898c590a",
+            "uid": "b28b8b0fdbbb437a384e2fe8ebbed119",
+            "username": "peteburgers"
+        },
+        "service": {
+            "hostname": "peteburgers.tk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1458506410,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1458506338,
+        "hash": "182af90512ff6e5dc074abed5d1bd468dbe7d8e082023f123400dfcd535014345b2d4f2952c2bbd4e2d45ae6d356f68712e15231834a3e8bed45ed582a92db60",
+        "seqno": 415913
+    },
+    "prev": "f41761f215da51385f89cbcb2e0499959ec7d76d1a0d6dee3f2fcc2ee410a91b",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg2hxw9EO6XsH0KFhSB6MaH1rO7kIHKf8EsgEgkZ+JjFkKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZGExYzcwZjQ0M2JhNWVjMWY0Mjg1ODUyMDdhMzFhMWY1YWNlZWU0MjA3MjlmZjA0YjIwMTIwOTE5Zjg5OGM1OTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZGExYzcwZjQ0M2JhNWVjMWY0Mjg1ODUyMDdhMzFhMWY1YWNlZWU0MjA3MjlmZjA0YjIwMTIwOTE5Zjg5OGM1OTBhIiwidWlkIjoiYjI4YjhiMGZkYmJiNDM3YTM4NGUyZmU4ZWJiZWQxMTkiLCJ1c2VybmFtZSI6InBldGVidXJnZXJzIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJwZXRlYnVyZ2Vycy50ayIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTQifSwiY3RpbWUiOjE0NTg1MDY0MTAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ1ODUwNjMzOCwiaGFzaCI6IjE4MmFmOTA1MTJmZjZlNWRjMDc0YWJlZDVkMWJkNDY4ZGJlN2Q4ZTA4MjAyM2YxMjM0MDBkZmNkNTM1MDE0MzQ1YjJkNGYyOTUyYzJiYmQ0ZTJkNDVhZTZkMzU2ZjY4NzEyZTE1MjMxODM0YTNlOGJlZDQ1ZWQ1ODJhOTJkYjYwIiwic2Vxbm8iOjQxNTkxM30sInByZXYiOiJmNDE3NjFmMjE1ZGE1MTM4NWY4OWNiY2IyZTA0OTk5NTllYzdkNzZkMWEwZDZkZWUzZjJmY2MyZWU0MTBhOTFiIiwic2Vxbm8iOjcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA0JPTK6j20zqMThaA36oYq6zz6wuZOTMVgq4RS+I13PLWLWijMUuHD0VEejf0XRh166ehOTmKF/UjOKFWuJQ1DahzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/peteburgers
